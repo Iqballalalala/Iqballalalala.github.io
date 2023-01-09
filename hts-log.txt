@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Jan 2023 13:13:46 at https://invitera.site/jimmyclarissa/62818281616 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://invitera.site/jimmyclarissa/62818281616 -O1 "C:\weboffline\undangan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:14:07	Error: 	"Not Found" (404) at link https://invitera.site/icon-fav.png (from https://invitera.site/jimmyclarissa/62818281616)
+13:14:10	Error: 	"Not Found" (404) at link https://invitera.site/icons/icon_64x64.d64535.png (from https://invitera.site/jimmyclarissa/62818281616)
+13:14:10	Error: 	"Not Found" (404) at link https://invitera.site/icons/icon_512x512.d64535.png (from https://invitera.site/jimmyclarissa/62818281616)
+13:14:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invitera.site/assets/js/lightbox.min.js (from https://invitera.site/jimmyclarissa/62818281616)
+13:14:10	Error: 	"Not Found" (404) at link https://invitera.site/assets/img/elegant4.20493f0.jpg (from https://invitera.site/assets/css/bootstrap.css?v=2094556122)
+13:14:10	Error: 	"Not Found" (404) at link https://invitera.site/assets/img/simple_flower.a8a9127.jpg (from https://invitera.site/assets/css/bootstrap.css?v=2094556122)
+13:14:10	Error: 	"Not Found" (404) at link https://invitera.site/assets/img/elegant_top.ee5a7dc.jpg (from https://invitera.site/assets/css/bootstrap.css?v=2094556122)
+13:14:10	Error: 	"Not Found" (404) at link https://invitera.site/assets/img/elegant_bottom.d44e0f9.jpg (from https://invitera.site/assets/css/bootstrap.css?v=2094556122)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 72 links scanned, 63 files written (5177181 bytes overall) [4550824 bytes received at 189617 bytes/sec], 842110 bytes transferred using HTTP compression in 19 files, ratio 19%, 4.8 requests per connection
+(7 errors, 1 warnings, 0 messages)
